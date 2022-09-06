@@ -13,7 +13,7 @@
 ## Time taken to finish this project
 
 - 7 hours taken to complete it.
-## Tailwind Project3 RØDE Responsive [Live Link]()
+## Tailwind Project3 RØDE Responsive [Live Link](https://r-de.netlify.app/)
 #### Preview
 
 ![Desktop](./Preview.JPG)
